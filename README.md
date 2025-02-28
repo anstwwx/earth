@@ -1,1 +1,1 @@
-earth.github.io
+https://anstwwx.github.io/earth/

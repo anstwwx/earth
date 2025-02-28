@@ -1,2 +1,1 @@
-# earth
-earth
+earth.github.io
